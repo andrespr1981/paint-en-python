@@ -4,7 +4,7 @@ Para abrir este programa necesitas las siguientes cosaas:
 1.Tener python instalado.
 2.Tener pygame instalado.
 
-Para ejecutar el programa deberas iniciar el archivo pygame.py. 
+Para ejecutar el programa deberas iniciar el archivo Paint.py. 
 Luego para conocer los comandos puedes usar el comando /help.
 Para dibujar debes de escribir los mandos de siguiente manera: 
 comando -cuadrado c g x y
