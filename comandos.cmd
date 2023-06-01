@@ -1,3 +1,4 @@
+/help 
 comando -fondo 5
 comando -rectanguloh 1 100 500 200
 comando -rectangulov 2 100 400 200
