@@ -1,0 +1,13 @@
+def listarcolores():
+	print("Para selecionar el color que quieras usar escribe")
+	print("el numero representante de cada color despues de")
+	print("usar un comando para dibujar por ejemplo:")
+	print("comando -l c 10 100 100 100 100")
+	print("donde esta la c tienes que poner el numero para selecionar el color ")
+	print("Colores soportados: ")
+	print("1 = Azul cielo")
+	print("2 = Blanco")
+	print("3 = Negro")
+	print("4 = Rojo")
+	print("5 = Verde")
+	print("6 = Azul")
