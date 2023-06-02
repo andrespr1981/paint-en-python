@@ -8,13 +8,21 @@ Para abrir este programa necesitas las siguientes cosaas:
 2.Tener pygame instalado.
 
 Para ejecutar el programa deberas iniciar el archivo Paint.py. 
+Los comandos los vas a ejecutar en el archivo comandos.cmd.
+
 Luego para conocer los comandos puedes usar el comando /help.
-Para dibujar debes de escribir los mandos de siguiente manera: 
+Para dibujar debes de escribir los comandos de siguiente manera: 
+
 comando -cuadrado c g x y
+
 c= color del que quieres el trazo
+
 g= grosor del que quieres el trazo
+
 x= es la posicion x del trazo
+
 y= es la posicion y del trazo
+
 debes remplazar las anteriores variables con numeros
 comando -triangulo= se usa para dibujar un triangulo
 comando -rectanguloh= se usa para dibujar un rectangulo horizontal
